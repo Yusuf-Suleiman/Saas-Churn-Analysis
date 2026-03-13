@@ -84,7 +84,7 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 - While the Basic plan exhibits the highest percentage churn rate (24.7%), **Standard Plan** is responsible for the highest total revenue loss. This indicates that our mid-tier customer base represents our greatest finacial risk.
 
 
-|    Subscription Type    |    |    Young Adult    |    Middle Age    |   Old    |
+|    Subscription Type    |    Young Adult    |    Middle Age    |   Old    |
 |------------------------|-------------------------|------------------|----------|
 |    Basic    |    28.7%    |    21.7%    |    23.6%    |
 |    Standard    |    16.9%    |    17.8%    |    15.6%    |
