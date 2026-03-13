@@ -74,4 +74,67 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 ----
 
 ## Key Insight
-- loading.....
+|    Subscription Type    |    Revenue Lost    |    Retention Rate    |   Churn Rate    |
+|-------------------------|--------------------|----------------------|-----------------|
+|    Basic    |    $647    |    75.3%    |    24.7%    |
+|    Standard    |   $7,960     |    83.0%    |    17.0%    |
+|    Premium    |    $3,706    |    83.2%    |    16.8%    |
+
+- The Basic plan shows a 24.7% churn rate with Premium plan having the highest retention rate, suggesting that our entry-level tier may not be providing perceived value to retain users past the first month.
+- While the Basic plan exhibits the highest percentage churn rate (24.7%), **Standard Plan** is responsible for the highest total revenue loss. This indicates that our mid-tier customer base represents our greatest finacial risk.
+
+
+|    Subscription Type    |    |    Young Adult    |    Middle Age    |   Old    |
+|------------------------|-------------------------|------------------|----------|
+|    Basic    |    28.7%    |    21.7%    |    23.6%    |
+|    Standard    |    16.9%    |    17.8%    |    15.6%    |
+|    Premium    |    16.9%    |    16.2%    |    17.6%    |
+
+- The Baisc suubscription plan acts as a primary churn driver, exhibiting the highest churn rates across all demographics. Specifically, Young Adults on the Basic Plan churn at a rate of 28.7%, which is significantly higher than the company-wide average of 17%.
+
+|    Subscription Type    |    Female    |   Male     |
+|-------------------------|------------|--------------|
+|    Basic    |    21.5%    |    28.7%    |
+|    Standard    |    17.6%    |    16.3%    |
+|    Premium    |    17.2%    |    16.3%    |
+
+- The Male on the Basic plan have the highest churn rate of 28.7%
+
+|    Genre    |    Churn Count    |
+|-------------|-------------------|
+|    Action    |    175    |
+|    Comedy    |    164    |
+|    Documentary    |    196    |
+|    Drama    |    164    |
+|    Thriller    |    148    |
+
+- Users who identify Documentary as their favorite exhibit higher attrition
+
+|    Region    |    Churn Count    |
+|--------------|-------------------|
+|    Africa    |    9    |
+|    Asia    |    230    |
+|    Europe    |    322    |
+|    North America    |    238    |
+|    South America    |    48    |
+
+- Europe exhibit the highest number of churn users
+
+|    Device    |    Churn Count    |
+|--------------|-------------------|
+|    Laptop    |    186    |
+|    Mobile    |    280    |
+|    Tablet    |    18    |
+|    TV    |    363    |
+
+- Users making use of TV exhibits the highest number of churn in this category
+
+|    Status    |    Avg. Watch Time    |
+|--------------|-----------------------|
+|    Active    |    2.15    |
+|    Churn    |    2.06    |
+
+- Churn users have an average hour of watch time per day as 2.06
+
+
+
