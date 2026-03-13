@@ -80,9 +80,8 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 |    Standard    |   $7,960     |    83.0%    |    17.0%    |
 |    Premium    |    $3,706    |    83.2%    |    16.8%    |
 
-- The Basic plan shows a 24.7% churn rate with Premium plan having the highest retention rate, suggesting that our entry-level tier may not be providing perceived value to retain users past the first month.
-- While the Basic plan exhibits the highest percentage churn rate (24.7%), **Standard Plan** is responsible for the highest total revenue loss. This indicates that our mid-tier customer base represents our greatest finacial risk.
-
+- The table above illustrates the discrepancy between revenue loss and churn volume, highlighting that while the Basic plan has the highest churn, the Standard plan represents the greatest revenue risk.
+  
 
 |    Subscription Type    |    Young Adult    |    Middle Age    |   Old    |
 |------------------------|-------------------------|------------------|----------|
@@ -92,6 +91,7 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 
 - The Baisc suubscription plan acts as a primary churn driver, exhibiting the highest churn rates across all demographics. Specifically, Young Adults on the Basic Plan churn at a rate of 28.7%, which is significantly higher than the company-wide average of 17%.
 
+
 |    Subscription Type    |    Female    |   Male     |
 |-------------------------|------------|--------------|
 |    Basic    |    21.5%    |    28.7%    |
@@ -99,6 +99,7 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 |    Premium    |    17.2%    |    16.3%    |
 
 - The Male on the Basic plan have the highest churn rate of 28.7%
+
 
 |    Genre    |    Churn Count    |
 |-------------|-------------------|
@@ -110,6 +111,7 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 
 - Users who identify Documentary as their favorite exhibit higher attrition
 
+
 |    Region    |    Churn Count    |
 |--------------|-------------------|
 |    Africa    |    9    |
@@ -120,6 +122,7 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 
 - Europe exhibit the highest number of churn users
 
+
 |    Device    |    Churn Count    |
 |--------------|-------------------|
 |    Laptop    |    186    |
@@ -129,6 +132,7 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 
 - Users making use of TV exhibits the highest number of churn in this category
 
+
 |    Status    |    Avg. Watch Time    |
 |--------------|-----------------------|
 |    Active    |    2.15    |
@@ -136,5 +140,9 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 
 - Churn users have an average hour of watch time per day as 2.06
 
+## Recommendation
+**1 Value Proposition Optimization (Basic Plan)**
+- **Target:** New subscribers, Male gender, and Young Adult demographic.
+- 
 
 
