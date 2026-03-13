@@ -58,7 +58,7 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 
 **Insight Explored:**
 - Churn by subscription type
-- churn by age group, device and region
+- churn by age group, gender, device and region
 - Revenue lost by subscription type
 
 **Folder:**
