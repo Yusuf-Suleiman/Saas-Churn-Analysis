@@ -17,9 +17,9 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 ## Dataset
 **Data Engineering**
 To simulate a real-world SaaS environment, I intentionally introduced a 2.89% error density (145 affected rows) into the 5,011-row dataset. This served to test the robustness of my cleaning workflows against:
-Blanks: Simulatingmissing users informations.
-Logical Errors: Negative revenue figures and impossible watch-time durations.
-Data Type Mismatches: Inconsistent formatting across date and currency fields.
+- Blanks: Simulatingmissing users informations.
+- Logical Errors: Negative revenue figures and impossible watch-time durations.
+- Data Type Mismatches: Inconsistent formatting across date and currency fields.
 
 **Columns included:**
 |  Column  |  Description |
