@@ -143,6 +143,20 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 ## Recommendation
 **1 Value Proposition Optimization (Basic Plan)**
 - **Target:** New subscribers, Male gender, and Young Adult demographic.
-- 
+- **Data Context:** Basic plan churn currently peaks at 28.7%, suggesting failure to deliver immediate product value post-acquisition.
+- **Action:** Implement a structured 30-day "Value Discovery" onboarding journey. Use automated, personalized touchpoints to guide users towards the specific content genre and features that align with their profiles, ensuring they experience the platform's core benefits before the first renewal milestone.This onboarding strategy is expected to reduce Basic plan churn among young male users and improve first-month activation rates.
 
+**2 Revenue & Loyalty Protection (Standard Plan)**
+- **Target:** Existing Standard plan subscribers.
+- **Data Context:** While churn rates are higher elsewhere, the Standard plan accounts for the highest absolute revenue loss ($7,960), representing the greatest financial risk.
+- **Action:** Deploy a proactive loyalty and retention program specifically for this segment. Offer incentives for long-term commitment (e.g., plan extensions, loyalty discounts, or exclusive content previews) to stabilize your most significant recurring revenue stream.
 
+**3 Platform & Regional Experience (Europe & TV Devices)**
+- **Target:** Users in Europe and those accessing via TV devices.
+- **Data Context:** High churn volumes are concentrated in these segments, indicating potential friction in the streaming experience or content-library gaps.
+- **Action:** Conduct a technical audit of streaming performance on TV devices in the European region. Simultaneously, curate localized marketing campaigns that highlight content categories currently experiencing high churn, such as Documentaries and TV series, to better align the library with local user preferences.
+
+​In summary, this analysis highlights a critical divergence between user-base churn and revenue risk. While our entry-level tiers face high churn volatility, the revenue loss concentrated in our mid-tier segments presents the most significant financial challenge to the business. By adopting a segmented retention strategy—focusing on early-lifecycle value demonstration for new users, targeted loyalty incentives for high-value revenue segments, and localized optimization for our highest-churn regions—we can effectively stabilize our customer base and maximize long-term lifetime value.
+
+## How to Use
+- Download Excel files from 
