@@ -159,4 +159,14 @@ The goal is to Provide **insights for improving retention** and **maximizing rev
 ​In summary, this analysis highlights a critical divergence between user-base churn and revenue risk. While our entry-level tiers face high churn volatility, the revenue loss concentrated in our mid-tier segments presents the most significant financial challenge to the business. By adopting a segmented retention strategy—focusing on early-lifecycle value demonstration for new users, targeted loyalty incentives for high-value revenue segments, and localized optimization for our highest-churn regions—we can effectively stabilize our customer base and maximize long-term lifetime value.
 
 ## How to Use
-- Download Excel files from 
+- Download Excel files from `Data/`, `Cleaning/`, and `Analysis/` folders
+- Explore interactive dashboards in `Analysis/`
+- Refer to `visuals for quick visual summary
+
+---
+## Future Work
+- MRR & Revenue Retention Analysis
+- Customer Lifecycle Analysis
+
+---
+**Licencing:** MIT
