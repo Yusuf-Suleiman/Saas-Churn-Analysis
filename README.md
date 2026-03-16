@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Yusuf-Suleiman.Saas-Churn-Analysis)
+
 # Saas-Churn-Analysis
 
 **Author:** Yusuf Suleiman
